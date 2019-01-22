@@ -1,0 +1,13 @@
+C:\Users\Aeralius\source\repos\ConsoleElements\ConsoleElements\bin\Release\ConsoleElements.exe.config
+C:\Users\Aeralius\source\repos\ConsoleElements\ConsoleElements\bin\Release\ConsoleElements.exe
+C:\Users\Aeralius\source\repos\ConsoleElements\ConsoleElements\bin\Release\ConsoleElements.pdb
+C:\Users\Aeralius\source\repos\ConsoleElements\ConsoleElements\bin\Release\ExtLogger.exe
+C:\Users\Aeralius\source\repos\ConsoleElements\ConsoleElements\bin\Release\Simulation.dll
+C:\Users\Aeralius\source\repos\ConsoleElements\ConsoleElements\bin\Release\Simulation.pdb
+C:\Users\Aeralius\source\repos\ConsoleElements\ConsoleElements\obj\Release\ConsoleElements.csprojAssemblyReference.cache
+C:\Users\Aeralius\source\repos\ConsoleElements\ConsoleElements\obj\Release\ConsoleElements.csproj.CoreCompileInputs.cache
+C:\Users\Aeralius\source\repos\ConsoleElements\ConsoleElements\obj\Release\ConsoleElements.csproj.CopyComplete
+C:\Users\Aeralius\source\repos\ConsoleElements\ConsoleElements\obj\Release\ConsoleElements.exe
+C:\Users\Aeralius\source\repos\ConsoleElements\ConsoleElements\obj\Release\ConsoleElements.pdb
+C:\Users\Aeralius\source\repos\ConsoleElements\ConsoleElements\bin\Release\Mods\CoreMods\Anothermod.dll
+C:\Users\Aeralius\source\repos\ConsoleElements\ConsoleElements\bin\Release\Mods\CoreMods\SimpleMod.dll
