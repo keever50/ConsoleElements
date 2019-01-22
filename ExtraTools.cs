@@ -14,7 +14,6 @@ namespace ExtraTools
         internal static void LoadElements()
         {
 
-
             Type[] Types = Find.TypesInNamespace(Assembly.GetExecutingAssembly(), "Elements");
             foreach (Type T in Types)
             {
